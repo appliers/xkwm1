@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'll update this very soon once I release my bot to the public isn't that amazing omg thats so cool ok bye
+
 <!--
 **xkwm1/xkwm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
