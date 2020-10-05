@@ -1,7 +1,7 @@
 Hello, welcome to my GitHub page!
 I usually code Websites and Bots for discord, and occasionally games
 
-<b>Website</b>: https://xkwm1.github.io/xkwm1 (bit.ly/web-xkwm1)
+<b>Website</b>: https://xkwm1.github.io/xkwm1 (bit.ly/web-xkwm1)<br>
 <b>Languages</b>: Node.js, Javascript, HTML5, CSS3, PHP (To send/transmit information)
 
 ### v1.0.1 (10/3/20)
