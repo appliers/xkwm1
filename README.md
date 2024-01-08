@@ -6,4 +6,4 @@
 - 😄 Pronouns: he/him
 <br>
 
-[![xKwm1's github stats](https://github-readme-stats.vercel.app/api?username=xkwm1)](https://github.com/anuraghazra/github-readme-stats)
+[![xKwm1's github stats](https://github-readme-stats.vercel.app/api?username=appliers)](https://github.com/anuraghazra/github-readme-stats)
