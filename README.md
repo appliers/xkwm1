@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on [Izen](https://github.com/xkwm1/Izen), [Vapor](https://github.com/xkwm1/Vapor), [Titan (COMING SOON)]()
 - 🌱 I’m currently learning Java, JavaScript, Python
 - 💬 Ask me about: How to code a discord bot!
-- 📫 How to reach me: Through my discord! xKwm1##592
+- 📫 How to reach me: Through my discord! kwmx
 - 😄 Pronouns: he/him
 <br>
 
